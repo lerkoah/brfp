@@ -12,4 +12,4 @@ We can reconstruct time-frequency signals using time or frequency (or both of th
 
 ## Paper
 
-(Bayesian Reconstruction of Fourier Pairs on arXiv)[https://arxiv.org/abs/2011.04585]
+(Bayesian Reconstruction of Fourier Pairs on arXiv](https://arxiv.org/abs/2011.04585)
